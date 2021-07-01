@@ -1,0 +1,21 @@
+h1 {
+  color: red
+}
+p {
+  color: #180c;
+  text-align: center;
+  background-color: floralwhite
+}
+#dayArticle {
+  color: hsl(200,95%,55%);
+  text-align: center;
+}
+.bottom {
+  color: rgb(255, 196, 0)
+  
+}
+ul {
+  text-decoration: none;
+  float: right;
+  display: inline-block;
+}
