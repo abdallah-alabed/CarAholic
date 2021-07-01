@@ -1,4 +1,5 @@
 /*  This js file is to create more dynamic to our repo. as we should allow the user to interact with us*/
+<<<<<<< HEAD
 var username= prompt("please enter your name")
 while (username==null){
   alert("this is an interactive website so please enter yourname" );
@@ -7,6 +8,14 @@ while (username==null){
 alert("Thank you " + username + " For visiting our Website!")
 var pass
 var choice = prompt("Do you like us to recommend a car for you (yes/no)?")
+=======
+
+var username = prompt("Hello, what is your name?")
+if (username == null){alert("Thank you For visiting our Website!")}
+else alert("Thank you " + username + " For visiting our Website!")
+
+var choice = prompt("Do you like us to recommend a car for you?")
+>>>>>>> 1c29397490c8dc39de597d49376d53405b0e617e
  if (choice == null){alert("please enjoy our website")}
 else if (choice == "no" ) { alert ("please enjoy our website")}
 else if (choice == "yes"){ pass=prompt("how many people will ride in it? (1-7)")}
@@ -32,9 +41,13 @@ if
 else
 else if
 alert
+<<<<<<< HEAD
 confirm 
 for
 while
 
 
 */
+=======
+confirm */
+>>>>>>> 1c29397490c8dc39de597d49376d53405b0e617e
