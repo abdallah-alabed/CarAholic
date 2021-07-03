@@ -1,4 +1,4 @@
-/*  This js file is to create more dynamic to our repo. as we should allow the user to interact with us*/
+
 var username= prompt("please enter your name")
 while (username==null){
   alert("this is an interactive website so please enter yourname" )
