@@ -1,17 +1,22 @@
 h1 {
-  color: red
+  color: red ;
+  border-style: dotted
 }
 p {
   color: #180c;
   text-align: center;
-  background-color: floralwhite
+  background-color: floralwhite;
+  padding:10 px;
 }
 #dayArticle {
   color: hsl(200,95%,55%);
   text-align: center;
+  border-style: dotted
+
 }
 .bottom {
-  color: rgb(255, 196, 0)
+  color: rgb(255, 196, 0);
+ border-style: dotted
   
 }
 ul {
